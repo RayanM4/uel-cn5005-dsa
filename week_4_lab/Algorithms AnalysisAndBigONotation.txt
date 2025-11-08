@@ -1,0 +1,11 @@
+a) 3 n^2 + 10 n log n  = O(n log n)
+
+n^2 > n log n --> O(n^2)
+
+answer: false
+
+d) n log n + n/2 = O(n)
+
+n log n > n --> O(n log n)
+
+answer: false
